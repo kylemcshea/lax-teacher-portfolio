@@ -38,7 +38,11 @@ export const Footer = () => {
               Once UI
             </SmartLink>
           </Text>
-          <SmartLink href="https://verselabs.io">
+          <Text> / </Text>
+          <SmartLink
+            style={{ marginLeft: "-0.025rem" }}
+            href="https://verselabs.io"
+          >
             Powered by Verse Labs
           </SmartLink>
         </Text>
