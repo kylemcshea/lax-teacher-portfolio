@@ -269,7 +269,7 @@ const about = {
     title: "College Lacrosse",
     skills: [
       {
-        title: "Statistics",
+        title: "Stevens Institute of Technology",
         description: (
           <>
             <h4>Career Statistics</h4>
