@@ -41,11 +41,6 @@ const createI18nContent = (t) => {
       icon: "email",
       link: "mailto:dcrotty4@gmail.com",
     },
-    {
-      name: "Phone",
-      icon: "phone",
-      link: "tel:123-456-789",
-    },
   ];
 
   const home = {
@@ -104,7 +99,7 @@ const createI18nContent = (t) => {
           timeframe: t("about.work.experiences.Creativ3.timeframe"),
           role: t("about.work.experiences.Creativ3.role"),
           achievements: t("about.work.experiences.Creativ3.achievements").split(
-            ";"
+            ";",
           ),
           images: [],
         },
@@ -119,7 +114,7 @@ const createI18nContent = (t) => {
           description: (
             <>
               {t(
-                `about.studies.institutions.University of Jakarta.description`
+                `about.studies.institutions.University of Jakarta.description`,
               )}
             </>
           ),

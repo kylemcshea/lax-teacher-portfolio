@@ -36,11 +36,6 @@ const social = [
     link: "https://www.instagram.com/laxteacher/",
   },
   {
-    name: "Phone",
-    icon: "phone",
-    link: "tel:123-456-789",
-  },
-  {
     name: "Email",
     icon: "email",
     link: "mailto:dcrotty4@gmail.com",
