@@ -36,11 +36,6 @@ const social = [
     link: "https://www.instagram.com/laxteacher/",
   },
   {
-    name: "Phone",
-    icon: "phone",
-    link: "tel:123-456-789",
-  },
-  {
     name: "Email",
     icon: "email",
     link: "mailto:dcrotty4@gmail.com",
@@ -274,7 +269,7 @@ const about = {
     title: "College Lacrosse",
     skills: [
       {
-        title: "Statistics",
+        title: "Stevens Institute of Technology",
         description: (
           <>
             <h4>Career Statistics</h4>
@@ -292,7 +287,7 @@ const about = {
               <li>2021 MAC Freedom Defensive Player of the Year</li>
               <li>3x All-American</li>
               <li>Academic All-American</li>
-              <li>3x All conference</li>
+              <li>3x All-Conference</li>
               <li>20+ additional collegiate accolades</li>
             </ul>
           </>
